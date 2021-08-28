@@ -5,6 +5,7 @@ Author: Jacob Moat
 Version: 1.0
 
 **Install instructions:**
+
   **Git Install**
 1) Cd Into resources folder of server directory 
 2) git clone https://github.com/jacob-moat/FiveM-Pededit
